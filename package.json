@@ -1,0 +1,23 @@
+{
+  "name": "react-native-flatlist-with-end",
+  "version": "1.0.0",
+  "description": "A simple wrapper over React Native's FlatList to render a component at the end of the list",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjingrong/react-native-flatlist-with-end.git"
+  },
+  "keywords": [
+    "react-native",
+    "FlatList"
+  ],
+  "author": "Jing Rong Lim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjingrong/react-native-flatlist-with-end/issues"
+  },
+  "homepage": "https://github.com/jjingrong/react-native-flatlist-with-end#readme"
+}
