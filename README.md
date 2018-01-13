@@ -4,7 +4,7 @@
 [![npm](https://img.shields.io/npm/l/react-native-flatlist-with-end.svg?style=flat-square)](https://www.npmjs.com/package/react-native-flatlist-with-end)
 
 [![npm](https://img.shields.io/npm/dm/react-native-flatlist-with-end.svg?style=flat-square)](https://www.npmjs.com/package/react-native-flatlist-with-end)
-[![npm](https://img.shields.io/npm/dt/react-native-flatlist-with-end.svg?style=flat-square)]([![npm](https://img.shields.io/npm/dt/express.svg)](https://www.npmjs.com/package/react-native-flatlist-with-end))
+[![npm](https://img.shields.io/npm/dt/react-native-flatlist-with-end.svg)](https://www.npmjs.com/package/react-native-flatlist-with-end)
 
 A simple wrapper over React Native's FlatList to render a component at the end of the list
 
