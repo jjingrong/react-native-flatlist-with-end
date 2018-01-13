@@ -1,8 +1,6 @@
 # react-native-flatlist-with-end 
 [![npm](https://img.shields.io/npm/v/react-native-flatlist-with-end.svg?style=flat-square)](https://www.npmjs.com/package/react-native-flatlist-with-end)
 [ ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/jjingrong/react-native-flatlist-with-end/pulls)
-[![npm](https://img.shields.io/npm/l/react-native-flatlist-with-end.svg?style=flat-square)](https://www.npmjs.com/package/react-native-flatlist-with-end)
-
 [![npm](https://img.shields.io/npm/dm/react-native-flatlist-with-end.svg?style=flat-square)](https://www.npmjs.com/package/react-native-flatlist-with-end)
 [![npm](https://img.shields.io/npm/dt/react-native-flatlist-with-end.svg)](https://www.npmjs.com/package/react-native-flatlist-with-end)
 
