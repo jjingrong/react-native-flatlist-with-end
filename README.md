@@ -14,6 +14,9 @@ Works on both iOS and Android
 Just sub in `FlatListWithEnd` in place of `FlatList` from react-native.
 Optionally, you can add a prop `renderEndComponent`. It expects a function that returns a component.
 
+# Demo
+![Demo](https://raw.githubusercontent.com/jjingrong/react-native-flatlist-with-end/demo.png)
+
 # Example
 ```
 <FlatListWithEnd
