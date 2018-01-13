@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/jjingrong/react-native-flatlist-with-end/issues"
   },
-  "homepage": "https://github.com/jjingrong/react-native-flatlist-with-end#readme"
+  "peerDependencies": {
+    "react-native": ">=0.20.0",
+    "prop-types": "^15.5.7"
+  },
+  "homepage": "https://github.com/jjingrong/react-native-flatlist-with-end#readme",
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  }
 }
