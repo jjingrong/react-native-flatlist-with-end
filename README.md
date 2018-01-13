@@ -7,7 +7,7 @@ Works on both iOS and Android
 # Installation
 
 - Run `npm i react-native-flatlist-with-end --save`
-- `import FlatListWithEnd from 'react-native-easy-toast'`
+- `import FlatListWithEnd from 'react-native-flatlist-with-end'`
 
 # Usage
 
