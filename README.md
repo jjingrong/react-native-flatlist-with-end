@@ -57,3 +57,7 @@ renderEndComponent  | Function | true | See [here](https://github.com/jjingrong/
   return <View style={{ paddingVertical: 15 }}><Text style={{ textAlign: 'center' }}>End of list</Text></View>;
 }
 ```
+
+# Contributing
+
+Feel free to open issues/PRs. This is implemented as a quick fix as there doesn't seem to be any libraries that implements this, but I realised that some others may find it useful too :)
