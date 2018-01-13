@@ -46,7 +46,7 @@ Optionally, you can add a prop `renderEndComponent`. It expects a function that 
 
 Props              | Type     | Optional | Default     | Description
 ----------------- | -------- | -------- | ----------- | -----------
-renderEndComponent  | Function | true | See [here](https://github.com/jjingrong/react-native-flatlist-with-end/blob/master/README.md#EndComponent)  | Custom function that returns a component to show 
+renderEndComponent  | Function | true | See [here](https://github.com/jjingrong/react-native-flatlist-with-end/blob/master/README.md#endcomponent)  | Custom function that returns a component to show 
 
 
 # EndComponent
