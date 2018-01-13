@@ -40,7 +40,7 @@ Optionally, you can add a prop `renderEndComponent`. It expects a function that 
     return (
       <View style={{ paddingVertical: 15 }}>
         <Text style={{ textAlign: 'center' }}>
-          End of list
+          No more items, check back later!
         </Text>
       </View>;
     );
