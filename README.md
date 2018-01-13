@@ -18,7 +18,7 @@ Optionally, you can add a prop `renderEndComponent`. It expects a function that 
 ```
 <FlatListWithEnd
   scrollEnabled
-  data={this.props.RootStore.activityFeedStore.feed}
+  data={data}
   keyExtractor={(item, index) => index}
   renderItem={({ item }) => {
     return (
